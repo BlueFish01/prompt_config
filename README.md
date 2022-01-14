@@ -2,8 +2,8 @@
 my custom prompt setting using
 [oh-my-posh](https://github.com/jandedobbeleer/oh-my-posh)
 
-# setting.json
+# [setting.json](./settings.json)
 my windows 11 terminal .json setting file.
 
-# myTheme.omp.jom
+# myTheme.omp.json
 my custom oh-my-posh Theme.
