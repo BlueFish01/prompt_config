@@ -7,4 +7,5 @@ my windows 11 terminal .json setting file.
 
 # [myTheme.omp.json](/myTheme.omp.json)
 my custom oh-my-posh Theme.
+
 ![Screenshot](/pic/Terminal_Screenshot.jpg)
